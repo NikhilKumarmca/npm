@@ -11,3 +11,4 @@ Some command of node js
 	npm prune : it remove all package that was not used in project
 	node filename:- to compile file
 	npm start :- to compile and execute file
+	npm i express :- to install express

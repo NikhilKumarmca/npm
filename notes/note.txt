@@ -1,0 +1,40 @@
+Node.js is an open source server environment
+Node.js is free
+Node.js runs on various platforms (Windows, Linux, Unix, Mac OS X, etc.)
+Node.js uses JavaScript on the server
+
+npm is stands for node package manager
+npm is the world's largest Software Registry
+npm is free to use.
+npm is installed with Node.js
+This means that you have to install Node.js to get npm installed on your computer.
+
+V8 is the name of the JavaScript engine that powers Google Chrome.
+all browser have their own javascript engine like
+Firefox has SpiderMonkey
+Safari has JavaScriptCore
+
+
+packageJson is a file that contain information about nodejs project
+to create packagejson use npm init
+Name - the name of your project. Has a maximum of 214 characters all lowercase with a leading period(.) or underscore(-).
+Version - the initial/current version of your project.
+Description - a short description of what your project does. It gives a hint on what your project is about.
+Main - the project main/entry file.
+Scripts - trigger testing, building, and trimming.
+Keywords - related tags to your project.
+Repository - point to the public GitHub repository where your code will be hosted live.
+Author - the owner of the project.
+License - indicates what license module you are using. Open-source NPM recognizes MIT as the default license.
+Dependencies - packages the project needs to run on production.
+DevDependencies - package the project needs to use for development purposes such as testing libraries.
+
+
+
+Modules are the blocks of encapsulated code that communicates with an external application on the basis of their related functionality.
+
+
+
+
+
+

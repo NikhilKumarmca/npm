@@ -1,0 +1,13 @@
+Some command of node js
+	npm install package :- for local install
+	npm uninstall package :- for local uninstall
+	npm install package -g :- for globle install
+	npm uninstall package -g :- for globle uninstall
+	npm list
+	npm list –depth 1 :- to show immediate dependence of package
+	npm list –depth 0 :- it show list of package
+	npm install packagename@versionNumber :- to install specific version of package
+	npm update :- to update all packages
+	npm prune : it remove all package that was not used in project
+	node filename:- to compile file
+	npm start :- to compile and execute file
